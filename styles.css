@@ -22,7 +22,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   max-width: 1200px;
-  padding: 50px 0 50px;
+  padding: 100px 0 100px;
 }
 
 .conteiner .card {
@@ -138,7 +138,7 @@ body {
   font-weight: 400;
 }
 
-.conteiner .card:nth-child(1) .box .content a, .conteiner .card:nth-child(1) .box .content .icon 
+.conteiner .card:nth-child(1) .box .content a, .conteiner .card:nth-child(1) .box .content .icon
 {
   background: #2196f3;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
